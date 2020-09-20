@@ -1,0 +1,56 @@
+.body{
+    background-color: #EFEBEC;
+    color:#362215;
+}
+
+.header-tytle{
+    margin: auto;
+    text-align: center;
+}
+
+.contacts{
+    background-color: #BCBEBC;
+    float: right;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    color: #362215;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.my-img{
+    position: relative;
+    padding: 10px;
+    max-height: 550px;
+    max-width: 350px;
+}
+
+h2{
+    color: #4E5363;
+    font-style: italic;
+}
+
+.main{
+    min-height: calc(85vh - 30px);
+    padding: 20px;
+    color:#362215;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.about{
+
+}
+
+.skills{
+float: left;
+width: 30%;
+}
+
+.education{
+float: left;
+}
+
+.footer{
+    height: 30px;
+}
